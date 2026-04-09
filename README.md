@@ -1,5 +1,4 @@
 # 💫 About Me:
-🔭 I’m currently working on AI Packet Capture Analysis<br>🌱 I’m currently learning Quantum Computing<br>⚡ Fun fact: I love learning
 
 
 # 💻 Tech Stack:
